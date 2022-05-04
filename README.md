@@ -43,7 +43,7 @@ console.log(`Hi, I'm ${me.firstName} ${me.lastName} and I'm a ${me.age} year old
 
 <br>
 
-## Stats and what not (most of my contributions are private)
+## Stats and what not
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=vallecampo&count_private=true&theme=nord&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Streak](https://github-readme-streak-stats.herokuapp.com?user=vallecampo&theme=nord&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
