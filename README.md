@@ -6,7 +6,7 @@
 const me = {
     firstName: "David",
     lastName: "Vallecampo",
-    age: 27,
+    age: 28,
     title: 'Software Developer'
 }
 console.log(`Hi, I'm ${me.firstName} ${me.lastName} and I'm a ${me.age} year old ${me.title}`)
