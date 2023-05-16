@@ -1,20 +1,10 @@
 <h1 align="center">
-  Hi, I'm David Vallecampo <img  src="https://raw.githubusercontent.com/danjrwalsh/danjrwalsh/main/assets/wave.gif" width="30px" />
+  David Vallecampo
 </h1>
 
-```js
-const me = {
-    firstName: "David",
-    lastName: "Vallecampo",
-    age: 28,
-    title: 'Software Developer'
-}
-console.log(`Hi, I'm ${me.firstName} ${me.lastName} and I'm a ${me.age} year old ${me.title}`)
-```
+- Junior software developer currently employed at [GLS Canada (@DicomGroup)](https://github.com/DicomGroup)
 
-- I’m a junior software developer currently employed at [GLS Canada (@DicomGroup)](https://github.com/DicomGroup)
-
-- I'm a co-founder of and currently building [Onsane (@onsane)](https://github.com/onsane)
+- Co-founder of and currently building [Onsane (@onsane)](https://github.com/onsane)
 
 <br>
 
