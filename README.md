@@ -2,8 +2,6 @@
   David Vallecampo
 </h1>
 
-- Junior software developer currently employed at [GLS Canada (@GLSCanada)](https://github.com/GLSCanada)
-
 - Co-founder of and currently building [Onsane (@onsane)](https://github.com/onsane)
 
 <br>
